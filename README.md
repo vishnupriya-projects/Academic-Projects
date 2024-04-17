@@ -9,6 +9,8 @@ This is my research project done as a part of my M.TECH(Operations Management) A
 3. To prioritize the critical success variables which help improve an MSME's performance and success.
 4. Through quantitative data, Critical success factors were evaluated using Exploratory factor analysis to find whether the identified key success variables represent the critical success factor & correlation between variables. 
 
+### Note:Unauthorised use or distribution of this project prohibited by @vishnupriya
+
 ## SIGNIFICANCE OF THE STUDY:
 The study identifies critical success factors through literature review and empirical survey. The critical success factors required for food processing industries, especially MSMEs, were identified & prioritized, which helps food organizations the key areas to be focused on to improve overall success and business performance.
 
